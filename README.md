@@ -28,3 +28,9 @@
 5. As a ผู้เช่า, I want to เข้าสู่ระบบ So that, ลงทะเบียนสมัครเป็นสมาชิกเพื่อเช่า-ยืมหนังสือ
 6. As a ผู้เช่า, I want to ค้นหาหนังสือ So that, ค้นหาเลือกรายการหนังสือที่ต้องการเช่า-ยืม
 7. As a ผู้เช่า, I want to ยืมหนังสือได้ So that, ระบุวันที่ยืม เวลาที่ยืม ระยะเวลาในการเช่า-ยืม
+
+## อ้างอิง
+- https://www.thaicreate.com/java/java-mysql-connect.html
+- https://www.thaicreate.com/java/java-gui-swing-jtable.html
+- https://stackoverflow.com/questions/15513380/how-to-open-a-new-window-by-clicking-a-button
+- https://dev.mysql.com/downloads/connector/j/8.0.html
