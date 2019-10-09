@@ -34,3 +34,4 @@
 - https://www.thaicreate.com/java/java-gui-swing-jtable.html
 - https://stackoverflow.com/questions/15513380/how-to-open-a-new-window-by-clicking-a-button
 - https://dev.mysql.com/downloads/connector/j/8.0.html
+- https://alvinalexander.com/java/java-mysql-select-query-example
